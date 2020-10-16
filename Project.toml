@@ -1,0 +1,4 @@
+name = "ObjectPools"
+uuid = "93375390-6f56-4b3a-8da6-73e88f3cc036"
+authors = ["Oblivia Simplex <oblivia@paranoici.org>"]
+version = "0.1.0"
